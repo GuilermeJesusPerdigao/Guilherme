@@ -1,7 +1,7 @@
 ### Hi There
-Boas vindas ao meu perfil 💙💙
-Meu nome é Guilherme de Jesus Perdigão
+Welcome to my profile 💙💙
+My name is Guilherme de Jesus Perdigão
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
+I am studying in Alura
+I am desenvolving in JavaScript language
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
